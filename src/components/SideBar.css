@@ -1,0 +1,35 @@
+body{
+    background-color:#E2E6EB;
+}
+
+.sidebar{
+    background-color: #ffffff;
+    margin:16px;
+    width:227px;
+    height: 550px;
+    box-shadow: 0px 12px 34px rgba(0, 0, 0, 0.04);
+    border-radius: 24px;
+}
+.nav-menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 390px;
+    padding: 34px 20px;
+    
+}
+.nav-logo{
+    text-align: center;
+}
+.nav-text{
+    padding: 16px;
+}
+.nav-text:hover{
+    
+}
+.nav-icon-text{
+    margin: 12px;
+    color: #1E1E1E;
+    text-decoration: none;
+}
